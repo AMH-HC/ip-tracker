@@ -15,5 +15,5 @@ Linux:
 sudo apt-get install python3 alsa-utils figlet espeak -y 
 git clone https://github.com/AMH-HC/ip-tracker   
 cd ip-tracker    
-pip3 install -r requirements.txt        
+pip3 install-r requirements.txt        
 python3 linux.py
