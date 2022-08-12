@@ -8,6 +8,8 @@ git clone https://github.com/AMH-HC/ip-tracker
 cd ip-tracker       
 python3 termux.py 
 
+-----------------------
+
 Linux:
 
 sudo apt-get install python3 alsa-utils figlet espeak -y 
