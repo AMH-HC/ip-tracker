@@ -4,7 +4,7 @@ Termux:
 pkg install python3 
 pip2 install requests 
 pkg install git 
-git clone https://github.com/AMH-HC/ip-tracker
+git clone https://github.com/AMH-HC/ip-tracker   
 cd ip-tracker 
 python3 termux.py 
 
