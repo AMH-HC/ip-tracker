@@ -6,7 +6,9 @@ pip2 install requests
 pkg install git              
 git clone https://github.com/AMH-HC/ip-tracker   
 cd ip-tracker       
-python3 termux.py 
+python3 termux.py
+Or
+python3 ip-tracker.py
 
 -----------------------
 
